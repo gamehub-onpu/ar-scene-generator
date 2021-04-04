@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ar-scene-generator/static/css/main.20219ac0.chunk.css",
-    "main.js": "/ar-scene-generator/static/js/main.cf3481a8.chunk.js",
-    "main.js.map": "/ar-scene-generator/static/js/main.cf3481a8.chunk.js.map",
+    "main.css": "/ar-scene-generator/static/css/main.58f66ccd.chunk.css",
+    "main.js": "/ar-scene-generator/static/js/main.64454b77.chunk.js",
+    "main.js.map": "/ar-scene-generator/static/js/main.64454b77.chunk.js.map",
     "runtime-main.js": "/ar-scene-generator/static/js/runtime-main.b31511f7.js",
     "runtime-main.js.map": "/ar-scene-generator/static/js/runtime-main.b31511f7.js.map",
     "static/js/2.5cf27468.chunk.js": "/ar-scene-generator/static/js/2.5cf27468.chunk.js",
     "static/js/2.5cf27468.chunk.js.map": "/ar-scene-generator/static/js/2.5cf27468.chunk.js.map",
     "index.html": "/ar-scene-generator/index.html",
-    "static/css/main.20219ac0.chunk.css.map": "/ar-scene-generator/static/css/main.20219ac0.chunk.css.map",
+    "static/css/main.58f66ccd.chunk.css.map": "/ar-scene-generator/static/css/main.58f66ccd.chunk.css.map",
     "static/js/2.5cf27468.chunk.js.LICENSE.txt": "/ar-scene-generator/static/js/2.5cf27468.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b31511f7.js",
     "static/js/2.5cf27468.chunk.js",
-    "static/css/main.20219ac0.chunk.css",
-    "static/js/main.cf3481a8.chunk.js"
+    "static/css/main.58f66ccd.chunk.css",
+    "static/js/main.64454b77.chunk.js"
   ]
 }
