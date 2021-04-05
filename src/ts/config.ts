@@ -1,3 +1,12 @@
-const SOME_TEXT = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quisquam doloribus eaque alias nam quae animi aperiam eligendi, sint soluta repellendus similique! Minus ratione iste aut minima consequuntur sit sunt sed fuga rerum? Nesciunt odio voluptates ullam ad ipsam suscipit, ratione molestiae error nulla neque iusto illum sapiente saepe ea impedit reiciendis, quas doloribus nihil eius unde? At, dolor accusantium deleniti numquam consequuntur ad dolores debitis. Eaque quis cupiditate fugit reiciendis ea laborum odit ex expedita doloremque neque obcaecati quae accusamus recusandae et consequuntur ipsum aliquam ratione incidunt beatae impedit est officia, vitae illo corporis. Reiciendis eius excepturi ipsam quo illum dignissimos magni officiis commodi vero cumque soluta impedit, velit quidem perferendis corporis. Rerum quas reprehenderit dicta numquam doloribus tempore, ratione magnam maiores laboriosam, sed architecto quia blanditiis iure quasi esse recusandae, asperiores aut et eos! Corporis natus aperiam unde inventore enim, quo at magni veniam dicta est saepe quas blanditiis molestias maxime quibusdam nihil magnam dolor soluta praesentium illum, impedit laboriosam voluptates! Ratione magnam nemo neque quas, inventore modi autem minima cum nobis molestiae. Eos porro dolor explicabo temporibus dignissimos officiis laboriosam nemo qui est cumque tempore ab ea, similique corrupti fugiat alias maxime veniam harum ipsum inventore sit architecto quis. Possimus aperiam impedit soluta ipsa? Voluptatum officiis veniam veritatis neque, repudiandae atque quasi porro unde blanditiis perspiciatis! Qui tenetur illum ex voluptatem optio nulla, dolorem dolor voluptas consequatur voluptatibus nostrum sunt minus numquam facilis eius similique placeat laborum eaque neque quisquam.";
+const SOME_TEXT = "";
+const FOOTER_PATTERN_INST ="";
+const FOOTER_PATTERN_FIRST =".patt - шаблон маркеру, який ви можете створити за ";
+const FOOTER_PATTERN_SECOND="цим посиланням";
+const FOOTER_PATTERN_THIRD=". Переконайтеся, що встановлено \"Pattern Ration 0.90\"\n";
+const FOOTER_PATTERN_FOURTH =".mtl .obj - модель. Обидва файли повинні бути правильно підготовлені з їх текстурою.";
+const FOOTER_PATTERN_FITH ="Робота з генератором";
+const FOOTER_PATTERN_N1 ="Знайдiть шаблони на вашому компьютери,яки ви будете використовувати у своєму проекті. Це створить таблицю, яку ви можете використовувати для введення інших файлів вашого проекту";
+const FOOTER_PATTERN_N2 ="Після натискання кнопки \"Submit\" ви можете вибрати, який тип вмісту буде пов’язаний з кожним шаблоном.";
+const FOOTER_PATTERN_N3 ="Для одного шаблону ви можете вибрати модель, відео чи зображення з одним аудіофайлом для кожного шаблону.";
 
-export {SOME_TEXT};
+export {SOME_TEXT, FOOTER_PATTERN_SECOND,FOOTER_PATTERN_FIRST, FOOTER_PATTERN_INST,FOOTER_PATTERN_THIRD,FOOTER_PATTERN_FOURTH,FOOTER_PATTERN_FITH,FOOTER_PATTERN_N1,FOOTER_PATTERN_N2,FOOTER_PATTERN_N3};

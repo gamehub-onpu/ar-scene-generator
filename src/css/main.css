@@ -30,6 +30,9 @@
   margin: auto;
   margin-top: 6em;
   width: 80%;
+  height: 40%;
+  line-height: 1.5;
+  text-align:left;
 }
 
 .progress {
