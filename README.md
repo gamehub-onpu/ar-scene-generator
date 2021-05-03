@@ -1,5 +1,5 @@
 ### Посилання на конструктор-генератор Веб-застосування доповненої реальності
-[github.io/ar-scene-generator](https://saveniukoleg.github.io/ar-scene-generator/)
+[github.io/ar-scene-generator](https://gamehub-onpu.github.io/ar-scene-generator/)
 
 ### Завантаження необхідних файлів
 Клацніть на слово "here", щоб завантажити архів та витягти з нього папки з необхідними файлами. Ці файли нам знадобляться пізніше.
